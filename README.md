@@ -5,6 +5,7 @@ This Design can be viewed on: https://www.behance.net/gallery/223185755/Nirma-Ap
 
 This repository contains the **UI/UX design for a college academic system**, created using **Figma**. The design focuses on an intuitive user experience, covering essential academic functionalities.  
 
+![DesignPage](Design.png)
 
 ## 📌 Key Screens  
 - **Login Page**: Secure authentication for students and faculty.  
